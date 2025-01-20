@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/6a/78/9c/6a789c174faa0a929f890a47a5317a4b.gif)
+![MasterHead](https://i.pinimg.com/originals/6a/78/9c/6a789c174faa0a929f890a47a5317a4b.gif)
 <h1 align="center">Hi 👋, I'm Vivien Doan</h1>
 <h3 align="center">I am an enthusiastic person, always curious about the world of data analysis, exploring new trends and staying up to date with the latest developments.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif">
